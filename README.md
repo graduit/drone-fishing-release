@@ -29,6 +29,6 @@ How to set things up:
 
 Figure 1 - Naze32 Motor 5 (Servo 1) Pins
 
-![picture alt](https://github.com/graduit/drone-fishing-release/blob/master/Images/Arduino%20Pin%20Connections.jpg "Arduino Pin Connections")
+![picture alt](https://github.com/graduit/drone-fishing-release/blob/master/Images/Arduino%20Connections.jpg "Arduino Pin Connections")
 
 Figure 2 - Arduino Pin Connections

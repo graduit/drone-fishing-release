@@ -24,3 +24,11 @@ How to set things up:
 8. Arduino: Compile and Upload the Arduino file to the Arduino Nano.
 9. Naze32: Power up the naze 32
 10. Hardware: Flick the switch connected to the Aux 3 channel, to activate the release mechanism.
+
+![picture alt](https://github.com/graduit/drone-fishing-release/blob/master/Images/Naze32%20Pin%20Connections.jpg "Naze32 Pin Connections")
+
+Figure 1 - Naze32 Motor 5 (Servo 1) Pins
+
+![picture alt](https://github.com/graduit/drone-fishing-release/blob/master/Images/Arduino%20Pin%20Connections.jpg "Arduino Pin Connections")
+
+Figure 2 - Arduino Pin Connections
